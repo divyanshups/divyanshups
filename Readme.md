@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Open Source Contributor</h3>
+<h1 align="center">Hi! I'm Divyanshu</h1>
+<h3 align="center"> | AI Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Modern+Web+Apps;Learning+AI+%26+Cloud;Always+Exploring+New+Tech" />
@@ -46,7 +46,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshups&show_icons=true&theme=tokyonight" height="180em"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180em"/>
 </p>
@@ -56,7 +56,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshups&theme=tokyo-night" />
 </p>
 
 ---
